@@ -1,19 +1,18 @@
 /**
  * Author: Isaac Trausch!
  *         isaactrausch@gmail.com
- * Date: 2026/25/08
+ * Date: 2026/01/09
  * Major: Computer Engineering
  *
- * A simple hello world program in C
+ * A simple hello program
  *
  */
 #include <stdlib.h>
 #include <stdio.h>
+#include<math.h>
 
-int main(int argc, char **argv) {
+main(){
 
-  printf("Hello World!\n");
-  printf("I love the School of Computing!\n");
 
   return 0;
 }
